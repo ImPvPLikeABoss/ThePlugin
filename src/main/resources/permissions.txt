@@ -1,0 +1,7 @@
+ThePlugin.spawn.nodelay
+ThePlugin.setspawn
+ThePlugin.warp.*
+ThePlugin.setwarp
+ThePlugin.delwarp
+ThePlugin.giveitem
+ThePlugin.fly

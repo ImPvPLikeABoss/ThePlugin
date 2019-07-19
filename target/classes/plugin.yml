@@ -1,0 +1,31 @@
+name: ThePlugin
+version: 1.0-SNAPSHOT
+main: main.java.xyz.botnetactivity.theplugin.ThePlugin
+authors: [PvPLikeABoss]
+description: Set of useful utilities every server will need
+
+commands:
+  help:
+    description: displays help page
+    usage: /help
+  i:
+    description: gives player an item
+    usage: /i <item> [amount]
+  fly:
+    description: toggle fly mode
+    usage: /fly
+  setspawn:
+    description: sets server spawn
+    usage: /setspawn
+  spawn:
+    description: teleports player to spawn
+    usage: /spawn
+  setwarp:
+    description: sets a warp
+    usage: /setwarp <warpname> [delay]
+  delwarp:
+    description: delete a warp
+    usage: /delwarp <warpname>
+  warp:
+    description: teleports player to warp
+    usage: /warp <warpname>

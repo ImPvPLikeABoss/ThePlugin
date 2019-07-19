@@ -1,0 +1,32 @@
+server-help:
+  - ----=<| SERVERNAME |>=----
+  - /help (shows this page)
+  - /i <item> [amount]
+  - you fucking nigger
+  - end of help
+server-motd:
+  - Welcome To SERVERNAME
+  - For help do /help
+  - To apply do /apply
+  - YOUR A FUCKING NIGGERRRR
+  - end of MOTD
+Clearlag-delay: 300
+##############################################
+anticurse-enabled: true
+anticurse-bannedwords:
+  - bitch
+  - fuck
+  - shit
+  - hoe
+  - kike
+  - cunt
+##############################################
+warps: []
+spawn-loc:
+  delay: 5
+  world: []
+  x: []
+  y: []
+  z: []
+  yaw: []
+  pitch: []
