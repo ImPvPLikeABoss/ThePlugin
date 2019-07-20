@@ -4,6 +4,7 @@
 
 <h3>Features</h3>
   <li>- ClearLagg (removes ground items)</li>
+  <li>- Anti-Swear</li>
   <li>- Easy customization (config.yml)</li>
 <h3>TODO</h3>
   <li>- add messages to config</li>
